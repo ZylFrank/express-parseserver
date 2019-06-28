@@ -1,0 +1,14 @@
+APP_NAME = MyParse
+APP_ID = MyParse
+DATABASE_URI=mongodb://localhost:27017/my-parse
+
+MASTER_KEY=pdZNUdub1yZkvcbr
+
+# 上传文件的最大体积(MB), 默认为20MB
+MAX_UPLOAD_SIZE=20
+
+# 服务接口地址
+SERVER_URL=http://localhost
+
+# parse-server的服务端口
+SERVER_PORT=1337
